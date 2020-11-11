@@ -8,7 +8,7 @@
   #:name "Cave" 
   #:description 
   @md{
-    This work is a Cave.
+    The @b{Cave of Shorengard the Great} holds many mysteries. It is said that this is where @b{Kyri the Enchantress} drew her last breath over ten thousand years ago. But that is a tale for another time...
 
     @(div
        (alert-warning (b "Note. ")  "We are currently adding new runes and will update this world when we do.")
