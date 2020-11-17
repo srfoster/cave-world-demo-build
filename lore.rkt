@@ -12,5 +12,8 @@
        (alert-primary "In its current form, we estimate this build to be worth about " (b "3 minutes of fun") ". Explore the nooks and crannies of the cave.  Listen to the sounds.  Discover that you can escape the level and fall into infinity."))
     }
   #:rune-collections
-  (list 'fire-particles)
+  (list 'hierarchy
+	'fire-particles
+	'ice-particles
+	'rocks)
   #:preview-image preview.png)
